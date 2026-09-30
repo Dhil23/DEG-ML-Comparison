@@ -223,6 +223,7 @@ Genome Biology. 2014;15(5):R71. doi:10.1186/gb-2014-15-5-r71
 
 Mohammad Fadhil Ihsan (10622010)
 School of Life Sciences and Technology, Institut Teknologi Bandung
+
 Supervisor: Popi Septiani, S.Si., M.Si., Ph.D.
 
 Undergraduate thesis project, BI4092.
